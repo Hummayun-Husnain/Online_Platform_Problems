@@ -1,1 +1,0 @@
-cd "d:\VSCode\Online_Platform_Problems\LeetCode\Kotlin\Two Sum\" && kotlinc file_name.kt -include-runtime -d file_name.jar && java -jar file_name.jar
